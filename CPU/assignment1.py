@@ -79,4 +79,4 @@ if __name__ == "__main__":
         print("Invalid choice.")
 
 # Wanted to make Prime 95 lol
-# Also wanted to use cpu_affinity. Maybe sometime later.
+# Also wanted to use cpu_affinity. Maybe sometime later. 
